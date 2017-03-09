@@ -20,10 +20,10 @@ url: 'http://biomadeira.github.io/jasper/'
 image: 'assets/images/casper.png'
 
 short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+# google_analytics: UA-69281367-1
+# disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -56,13 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: pjobinson
+repo: pjobinson.github.io
 branch: master
-relative_source: ../jasper/
+relative_source: ../pjobinson.github.io/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://pjobinson.github.io/
+source_url:      https://github.com/pjobinson/pjobinson.github.io/
 
 exclude:
   - README.md
