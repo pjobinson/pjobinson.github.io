@@ -7,19 +7,19 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Mayflower'
+description: "The story begins here."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Jobinson P Devadas'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+nickname: jo
+bio: 'rootless existence'
+location: 'India'
+url: 'http://pjobinson.github.io/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'pjobinson.github.io/'
 # google_analytics: UA-69281367-1
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
